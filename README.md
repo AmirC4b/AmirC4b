@@ -11,8 +11,7 @@
 <div align="center">
  
  🔭 I’m currently working on **my sample works**
- 
- 🌱 I’m currently learning **JavaScript tailwind git**
+
 
  </div>
  
